@@ -18,6 +18,13 @@ A LangChain-based conversational agent that helps users plan international trave
 - **RAG for Policy Questions**: Answers visa and refund queries using a vector database (ChromaDB).
 - **Gradio UI**: Clean browser-based chat interface.
 
+### Tech Stack
+- **Language**: Python 3.11.9
+- **Framework**: LangChain 
+- **LLM API**: OpenAI
+- **Vector DB**: ChromadB
+- **Data Types**: JSON, Markdown, Text
+
 ---
 
 ## ⚙️ Setup Instructions
