@@ -24,7 +24,7 @@ A LangChain-based conversational agent that helps users plan international trave
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/convo-travel-assistant.git
+git clone https://github.com/muizalvi/convo-travel-assistant.git
 cd convo-travel-assistant
 ````
 
